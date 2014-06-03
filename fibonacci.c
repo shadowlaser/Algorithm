@@ -7,7 +7,7 @@ void main()
   int n=5;
   printf("n=%d\nFibonacci=%d\n",n,Fibonacci(n));
 }
-
+//recursion
 int Fibonacci(int n)
 {
   if(n<=2)
